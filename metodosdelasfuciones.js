@@ -6,7 +6,7 @@ function saludar(saludo){
     console.log(lugar)
 }
 saludar()
-
+//call.apply//
 const obj=  lugar ;{
     lugar ,'hola '
 }
